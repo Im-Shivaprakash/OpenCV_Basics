@@ -1,4 +1,6 @@
-# Computer Vision Basics
+# OPENCV Basics
+
+![OpenCV Logo](opencv_logo.png)
 
 This repository contains a collection of modules that cover fundamental concepts and techniques in computer vision. Each module focuses on a specific aspect of computer vision, providing both theoretical explanations and practical implementations.
 
